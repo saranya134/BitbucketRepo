@@ -1,3 +1,3 @@
-FROM ubuntu:latest
+FROM hello-world:latest
 ARG GIT_COMMIT=""
 LABEL git_commit=$GIT_COMMIT
